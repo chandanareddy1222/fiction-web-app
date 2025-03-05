@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Book Management API
 
 A containerized REST API for managing a book collection with authentication and rate limiting.
@@ -55,4 +52,3 @@ pip install -r requirements.txt
 python run.py
 
 Note : to setup in cloud environment please look into the text file provided for the steps 
->>>>>>> 489694f (Added book-management-app and related files)
